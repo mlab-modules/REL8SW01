@@ -1,0 +1,13 @@
+description: There are 8 switching relays. Digitaly controlled by ULN2803
+github_branch: REL8SW01A
+github_description: There are 8 switching relays. Digitaly controlled by ULN2803
+github_repo: REL8SW01
+github_url: https://github.com/mlab-modules/REL8SW01
+homepage: false
+images:
+- doc/img/REL8SW01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: REL8SW01
+updated: '2023-09-17T11:41:10.262408+00:00'
